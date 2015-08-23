@@ -1,7 +1,7 @@
-DATA DICTIONARY - UCI HAR DATASET
-=================================
 Coursera Getting and Cleaning Data Course Project
 
+DATA DICTIONARY - UCI HAR DATASET
+=================================
 
 Activity    
 
