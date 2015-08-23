@@ -4,6 +4,7 @@ Coursera Getting and Cleaning Data Course Project
 
 
 Activity    Factor w/ 6 levels
+
     Activity description
         WALKING
         WALKING_UPSTAIRS
@@ -13,6 +14,7 @@ Activity    Factor w/ 6 levels
         LAYING
 
 Subject		int
+
 	The subject who performed the activity. Its range is from 1 to 30.
 		 1
 		 2
@@ -46,18 +48,23 @@ Subject		int
 		30
 
 tBodyAccelerometricMagnitudeMean	num
+
 	Mean of the magnitude of body linear acceleration signals within time domain	
 
 tBodyAccelerometricMagnitudeStd		num
+
 	Standard deviation of the magnitude of the body linear acceleration signals within time domain
 
 tGravityAccelerometricMagnitudeMean	num
+
 	Mean of the magnitude of gravity linear acceleration signals within time domain
 
 tGravityAccelerometricMagnitudeStd	num
+
 	Standard deviation of the magnitude of gravity linear acceleration signals within time domain
 
 tBodyAccelerometricJerkMagnitudeMean	num
+
 	Mean of the magnitude of body linear acceleration derived into Jerk signals within time domain
 
 tBodyAccelerometricJerkMagnitudeStd	num
