@@ -6,7 +6,7 @@ Coursera Getting and Cleaning Data Course Project
 Activity    
 
 	Factor w/ 6 levels
-    Activity description
+    Activity labels
         WALKING
         WALKING_UPSTAIRS
         WALKING_DOWNSTAIRS
@@ -50,73 +50,87 @@ Subject
 		29
 		30
 
-tBodyAccelerometricMagnitudeMean	num
+tBodyAccelerometricMagnitudeMean	
 
+	num
 	Mean of the magnitude of body linear acceleration signals within time domain	
 
 
-tBodyAccelerometricMagnitudeStd		num
+tBodyAccelerometricMagnitudeStd		
 
+	num
 	Standard deviation of the magnitude of the body linear acceleration signals within time domain
 
 
-tGravityAccelerometricMagnitudeMean	num
+tGravityAccelerometricMagnitudeMean	
 
+	num
 	Mean of the magnitude of gravity linear acceleration signals within time domain
 
 
-tGravityAccelerometricMagnitudeStd	num
+tGravityAccelerometricMagnitudeStd	
 
+	num
 	Standard deviation of the magnitude of gravity linear acceleration signals within time domain
 
 
-tBodyAccelerometricJerkMagnitudeMean	num
+tBodyAccelerometricJerkMagnitudeMean	
 
+	num
 	Mean of the magnitude of body linear acceleration derived into Jerk signals within time domain
 
 
-tBodyAccelerometricJerkMagnitudeStd	num
+tBodyAccelerometricJerkMagnitudeStd	
 
+	num
 	Standard deviation of the magnitude of body linear acceleration derived into Jerk signals within time domain
 
 
-tBodyGyroscopicMagnitudeMean		num
+tBodyGyroscopicMagnitudeMean		
 
+	num
 	Mean of the magnitude of body angular velocity signals within time domain
 
 
-tBodyGyroscopicMagnitudeStd		num
+tBodyGyroscopicMagnitudeStd		
 
+	num
 	Standard deviation of the magnitude of the body angular velocity signals within time domain
 
 
-tBodyGyroscopicJerkMagnitudeMean	num
+tBodyGyroscopicJerkMagnitudeMean	
 
+	num
 	Mean of the magnitude of body angular velocity derived into Jerk signals within time domain
 
 
-tBodyGyroscopicJerkMagnitudeStd		num
+tBodyGyroscopicJerkMagnitudeStd		
 
+	num
 	Standard deviation of the magnitude of body angular velocity derived into Jerk signals within time domain
 
 
-fBodyAccelerometricMagnitudeMean	num
+fBodyAccelerometricMagnitudeMean	
 
+	num
 	Mean of the magnitude of body linear acceleration signals within frequency domain
 
 
-fBodyAccelerometricMagnitudeStd		num
+fBodyAccelerometricMagnitudeStd		
 
+	num
 	Standard deviation of the magnitude of the body linear acceleration signals within frequency domain
 
 
-fBodyAccelerometricJerkMagnitudeMean	num
+fBodyAccelerometricJerkMagnitudeMean	
 
+	num
 	Mean of the magnitude of body linear acceleration derived into Jerk signals within frequency domain
 
 
-fBodyAccelerometricJerkMagnitudeStd	num
+fBodyAccelerometricJerkMagnitudeStd	
 
+	num
 	Standard deviation of the magnitude of body linear acceleration derived into Jerk signals within frequency domain
 
 
