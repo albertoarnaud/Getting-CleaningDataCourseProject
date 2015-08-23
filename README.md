@@ -5,22 +5,23 @@ README
 To run the procedure ("run_amalysis.R" file) call the run_analysis function. 
 This function does not require any parameter and returns a data frame containing the information as described into the Code Book document (CodeBook.md file into this repo)
 
-<!------->
-source("./run_analysis.R")
-data <- run_analysis()
-The run_analysis.R file must be into your working directory
-The "dplyr" package must be installed on your evironment
+'''sh
+> source("./run_analysis.R")
+> data <- run_analysis()
+'''
+- The run_analysis.R file must be into your working directory
+- The "dplyr" package must be installed on your evironment
 
 To load and view the run_analysis function outcome submitted within the course project use:
-data <- read.table("./mean_dataset.txt", header = TRUE)
-View(data)
-The mean_dataset.txt file must be into your working directory
+> data <- read.table("./mean_dataset.txt", header = TRUE)
+> View(data)
+- The mean_dataset.txt file must be into your working directory
 
 Below is the explanation of the function steps used to generate the tidy data set starting from the raw data:
 - X_train, Y_train and subject_train files loaded into 3 different data frames using the read.table function
 - X_test, Y_test and subject_test files loaded into 3 different data frames using the read.table function
 
-Project point 1: 
+### Project point 1: 
 - Previously generated data frames merged into a unique final data frame using a combination of cbind and rbind functions
 
 Project point 2:
