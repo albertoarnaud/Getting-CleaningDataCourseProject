@@ -3,7 +3,7 @@ Coursera Getting and Cleaning Data Course Project
 DATA DICTIONARY - UCI HAR DATASET
 =================================
 
-Activity    
+### Activity    
 
 	Factor w/ 6 levels
     Activity labels
@@ -13,9 +13,8 @@ Activity
         SITTING
         STANDING
         LAYING
-=================================
 
-Subject		
+### Subject		
 
 	int
 	The subject who performed the activity. Its range is from 1 to 30.
@@ -49,108 +48,94 @@ Subject
 		28
 		29
 		30
-=================================
 
-tBodyAccelerometricMagnitudeMean	
+### tBodyAccelerometricMagnitudeMean	
 
 	num
 	Mean of the magnitude of body linear acceleration signals within time domain	
-=================================
 
-tBodyAccelerometricMagnitudeStd		
+### tBodyAccelerometricMagnitudeStd		
 
 	num
 	Standard deviation of the magnitude of the body linear acceleration signals within time domain
-=================================
 
-tGravityAccelerometricMagnitudeMean	
+### tGravityAccelerometricMagnitudeMean	
 
 	num
 	Mean of the magnitude of gravity linear acceleration signals within time domain
-=================================
 
-tGravityAccelerometricMagnitudeStd	
+### tGravityAccelerometricMagnitudeStd	
 
 	num
 	Standard deviation of the magnitude of gravity linear acceleration signals within time domain
-=================================
 
-tBodyAccelerometricJerkMagnitudeMean	
+### tBodyAccelerometricJerkMagnitudeMean	
 
 	num
 	Mean of the magnitude of body linear acceleration derived into Jerk signals within time domain
-=================================
 
-tBodyAccelerometricJerkMagnitudeStd	
+### tBodyAccelerometricJerkMagnitudeStd	
 
 	num
 	Standard deviation of the magnitude of body linear acceleration derived into Jerk signals within time domain
-=================================
 
-tBodyGyroscopicMagnitudeMean		
+### tBodyGyroscopicMagnitudeMean		
 
 	num
 	Mean of the magnitude of body angular velocity signals within time domain
-=================================
 
-tBodyGyroscopicMagnitudeStd		
+### tBodyGyroscopicMagnitudeStd		
 
 	num
 	Standard deviation of the magnitude of the body angular velocity signals within time domain
-=================================
 
-tBodyGyroscopicJerkMagnitudeMean	
+### tBodyGyroscopicJerkMagnitudeMean	
 
 	num
 	Mean of the magnitude of body angular velocity derived into Jerk signals within time domain
-=================================
 
-tBodyGyroscopicJerkMagnitudeStd		
+### tBodyGyroscopicJerkMagnitudeStd		
 
 	num
 	Standard deviation of the magnitude of body angular velocity derived into Jerk signals within time domain
-=================================
 
-fBodyAccelerometricMagnitudeMean	
+### fBodyAccelerometricMagnitudeMean	
 
 	num
 	Mean of the magnitude of body linear acceleration signals within frequency domain
-=================================
 
-fBodyAccelerometricMagnitudeStd		
+### fBodyAccelerometricMagnitudeStd		
 
 	num
 	Standard deviation of the magnitude of the body linear acceleration signals within frequency domain
-=================================
 
-fBodyAccelerometricJerkMagnitudeMean	
+### fBodyAccelerometricJerkMagnitudeMean	
 
 	num
 	Mean of the magnitude of body linear acceleration derived into Jerk signals within frequency domain
-=================================
 
-fBodyAccelerometricJerkMagnitudeStd	
+### fBodyAccelerometricJerkMagnitudeStd	
 
 	num
 	Standard deviation of the magnitude of body linear acceleration derived into Jerk signals within frequency domain
-=================================
 
-fBodyGyroscopicMagnitudeMean		num
+### fBodyGyroscopicMagnitudeMean
 
+	num
 	Mean of the magnitude of body angular velocity signals within frequency domain
-=================================
 
-fBodyGyroscopicMagnitudeStd		num
 
+### fBodyGyroscopicMagnitudeStd
+
+	num
 	Standard deviation of the magnitude of the body angular velocity signals within frequency domain
-=================================
 
-fBodyGyroscopicJerkMagnitudeMean	num
+### fBodyGyroscopicJerkMagnitudeMean
 
+	num
 	Mean of the magnitude of body angular velocity derived into Jerk signals within frequency domain
-=================================
 
-fBodyGyroscopicJerkMagnitudeStd		num
+### fBodyGyroscopicJerkMagnitudeStd
 
+	num
 	Standard deviation of the magnitude of body angular velocity derived into Jerk signals within frequency domain
-=================================
