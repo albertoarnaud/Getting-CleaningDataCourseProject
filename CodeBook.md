@@ -1,10 +1,11 @@
 DATA DICTIONARY - UCI HAR DATASET
-
+=================================
 Coursera Getting and Cleaning Data Course Project
 
 
-Activity    Factor w/ 6 levels
+Activity    
 
+	Factor w/ 6 levels
     Activity description
         WALKING
         WALKING_UPSTAIRS
@@ -14,8 +15,9 @@ Activity    Factor w/ 6 levels
         LAYING
 
 
-Subject		int
+Subject		
 
+	int
 	The subject who performed the activity. Its range is from 1 to 30.
 		 1
 		 2
