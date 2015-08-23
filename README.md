@@ -13,7 +13,6 @@ This function does not require any parameter and returns a data frame containing
 To load and view the run_analysis function outcome submitted within the course project use:
 > data <- read.table("./mean_dataset.txt", header = TRUE) 
 > View(data)  
-  
 - The mean_dataset.txt file must be into your working directory 
   
 Below is the explanation of the function steps used to generate the tidy data set starting from the raw data:
