@@ -13,7 +13,7 @@ Activity
         SITTING
         STANDING
         LAYING
-
+=================================
 
 Subject		
 
@@ -49,106 +49,108 @@ Subject
 		28
 		29
 		30
+=================================
 
 tBodyAccelerometricMagnitudeMean	
 
 	num
 	Mean of the magnitude of body linear acceleration signals within time domain	
-
+=================================
 
 tBodyAccelerometricMagnitudeStd		
 
 	num
 	Standard deviation of the magnitude of the body linear acceleration signals within time domain
-
+=================================
 
 tGravityAccelerometricMagnitudeMean	
 
 	num
 	Mean of the magnitude of gravity linear acceleration signals within time domain
-
+=================================
 
 tGravityAccelerometricMagnitudeStd	
 
 	num
 	Standard deviation of the magnitude of gravity linear acceleration signals within time domain
-
+=================================
 
 tBodyAccelerometricJerkMagnitudeMean	
 
 	num
 	Mean of the magnitude of body linear acceleration derived into Jerk signals within time domain
-
+=================================
 
 tBodyAccelerometricJerkMagnitudeStd	
 
 	num
 	Standard deviation of the magnitude of body linear acceleration derived into Jerk signals within time domain
-
+=================================
 
 tBodyGyroscopicMagnitudeMean		
 
 	num
 	Mean of the magnitude of body angular velocity signals within time domain
-
+=================================
 
 tBodyGyroscopicMagnitudeStd		
 
 	num
 	Standard deviation of the magnitude of the body angular velocity signals within time domain
-
+=================================
 
 tBodyGyroscopicJerkMagnitudeMean	
 
 	num
 	Mean of the magnitude of body angular velocity derived into Jerk signals within time domain
-
+=================================
 
 tBodyGyroscopicJerkMagnitudeStd		
 
 	num
 	Standard deviation of the magnitude of body angular velocity derived into Jerk signals within time domain
-
+=================================
 
 fBodyAccelerometricMagnitudeMean	
 
 	num
 	Mean of the magnitude of body linear acceleration signals within frequency domain
-
+=================================
 
 fBodyAccelerometricMagnitudeStd		
 
 	num
 	Standard deviation of the magnitude of the body linear acceleration signals within frequency domain
-
+=================================
 
 fBodyAccelerometricJerkMagnitudeMean	
 
 	num
 	Mean of the magnitude of body linear acceleration derived into Jerk signals within frequency domain
-
+=================================
 
 fBodyAccelerometricJerkMagnitudeStd	
 
 	num
 	Standard deviation of the magnitude of body linear acceleration derived into Jerk signals within frequency domain
-
+=================================
 
 fBodyGyroscopicMagnitudeMean		num
 
 	Mean of the magnitude of body angular velocity signals within frequency domain
-
+=================================
 
 fBodyGyroscopicMagnitudeStd		num
 
 	Standard deviation of the magnitude of the body angular velocity signals within frequency domain
-
+=================================
 
 fBodyGyroscopicJerkMagnitudeMean	num
 
 	Mean of the magnitude of body angular velocity derived into Jerk signals within frequency domain
-
+=================================
 
 fBodyGyroscopicJerkMagnitudeStd		num
 
 	Standard deviation of the magnitude of body angular velocity derived into Jerk signals within frequency domain
+=================================
